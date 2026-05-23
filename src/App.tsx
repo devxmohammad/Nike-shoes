@@ -1,5 +1,5 @@
 import About from "./components/About";
-import BuyNow from "./components/Buynow";
+import BuyNow from "./components/BuyNow";
 import CanvasContainer from "./components/CanvasContainer";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
